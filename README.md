@@ -1,4 +1,7 @@
 # msc-bikegaps readme
+
+import parameters and custom functions: run ppf.py
+
 step 1 - make simplified network: 
 input = raw OSM data (car and bicycle nodes and links, 1 csv file each)
 output = simplified network *H* (nx) resp. *h* (ig), subgraph *B* (nx) resp. *b* (ig)
